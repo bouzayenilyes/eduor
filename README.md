@@ -78,7 +78,7 @@ You can deploy the Eduor template using Vercel, the hosting platform for Next.js
 
 ## License
 
-This template is available under an Envato license. Please ensure compliance with Envato's licensing terms before use.
+This template is available under an MIT license. Please ensure compliance with Ilyes Bouzayen's licensing terms before use.
 
 ## Credits
 
