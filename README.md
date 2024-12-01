@@ -3,7 +3,7 @@
 
 Eduor is a sleek, modern, and fully responsive education template built with Next.js. It is designed for online learning platforms, schools, universities, and any educational institution looking to establish a robust online presence.
 
-![Eduor Template](https://elements-cover-images-0.imgix.net/FDS4U7Z/education-nextjs-template-eduor-preview.jpg?auto=compress%2Cformat&fit=max&w=900&s=3d8dc1c75172e4569606665da00a389c)
+![Eduor Template](https://elements-resized.envatousercontent.com/elements-cover-images/4e46afc0-cab6-45d7-8c0b-09f33e4de0ef?w=2038&cf_fit=scale-down&q=85&format=auto&s=32491997c78a5b399506498b979203d6ede2b7cc04703e3eea9a3959bbfd44c6)
 
 ## Features
 
